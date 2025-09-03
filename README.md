@@ -5,7 +5,7 @@ The current release (Version 0.1.0) of DISTMIX3 is for a Linux user. The pre-com
 
 |**Direct download link**|**Versiom**|**Release Date**|**Note**|
 |:---|:---|:---|:---|
-|[DISTMIX3 for a Linux user](https://www.dropbox.com/scl/fi/ixvh93so5rvmy06ljlxlj/distmix2_v0.0.2?rlkey=0zlxuxxqksmn4k1to4l651nt1&st=81lwlz3p&dl=0|v0.3.0|09/03/2025|Includes info file for several scenarios|
+|[DISTMIX3 for a Linux user](https://www.dropbox.com/scl/fi/ixvh93so5rvmy06ljlxlj/distmix2_v0.0.2?rlkey=0zlxuxxqksmn4k1to4l651nt1&st=81lwlz3p&dl=0)|v0.3.0|09/03/2025|Includes info file for several scenarios|
 
 # Download Reference Panels
 |**Direct download link**|**Number of Samples**|**Number of populations**|**NCBI build**|**Release Date**|**Note**|
